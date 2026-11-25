@@ -2,6 +2,11 @@ h2 {
     font-size: 4em;
     position: relative;
 }
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-width: 10% ;
+}
 .texte{
     background-color: #2B7DE9;
     width : 5%;
@@ -11,6 +16,10 @@ h2 {
 }
 ul{
     list-style: none;
+}
+
+#image{
+    border-radius: 16px;
 }
 
 #premierbloque{
