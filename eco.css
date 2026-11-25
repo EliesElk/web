@@ -1,0 +1,60 @@
+h2 {
+    font-size: 4em;
+    position: relative;
+}
+.texte{
+    background-color: #2B7DE9;
+    width : 5%;
+    color : white;
+    align-items: center;
+    border-radius: 10px;
+}
+ul{
+    list-style: none;
+}
+
+#premierbloque{
+    padding : 1em;
+}
+
+.jaune{
+    background-color: yellow;
+    width: 20%;
+    margin-left: 2em;
+    border-radius: 40px;
+    padding : 0.3em;
+}
+
+.liste1{
+    display: flex;
+    justify-content: space-around;
+    padding  : 5em;
+}
+.elementlist1{
+    text-align: center;
+    width: 30%;
+    box-shadow: 1px 1px 5px black;    
+    background-color: #EFEFF0;
+    border-radius: 10px;
+    padding-bottom : 2em;
+}
+
+#boite2{
+      background: linear-gradient(to right, #CFE3FB, #FBF6E3);
+
+}
+
+#espacement1{
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+#lien{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding : 0.3em;
+    border-radius: 40px;
+}
+
+
